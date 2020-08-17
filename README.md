@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm [Sibashish Biswas](https://sibashish99.github.io/v1/) 👋 👨‍💻
+# I'm [Sibashish Biswas](https://sibashish99.github.io/) 👋 👨‍💻
 
 I am currently pursuing B.Tech from NIT Agartala , passionate about Web Development and UI/UX Design . Some technologies I enjoy working with include JavaScript,  ReactJS, HTML/CSS, Java. My aim is to create new stuffs by considering great  user interfaces.
 
