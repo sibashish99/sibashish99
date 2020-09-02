@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-Follow_Me_Here-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Sibashishbiswa2)](https://twitter.com/Sibashishbiswa2)  [![Gmail Badge](https://img.shields.io/badge/-Send_an_Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sibashishbiswas656@gmail.com)](mailto:sibashishbiswas656@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Social-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/sibashish.biswas.5)](https://www.facebook.com/sibashish.biswas.5) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sibashish-biswas-147337154)](www.linkedin.com/in/sibashish-biswas-147337154)
+[![Resume](https://img.shields.io/badge/-Resume-orange)](https://sibashish99.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow)](https://sibashish99.github.io/)
 
 
 # I'm [Sibashish Biswas](https://sibashish99.github.io/) 👋 👨‍💻
