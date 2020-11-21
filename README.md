@@ -7,7 +7,7 @@
 
 # I'm [Sibashish Biswas](https://sibashish99.github.io/) 👋 👨‍💻
 
-I am currently pursuing B.Tech from NIT Agartala , passionate about Web Development and UI/UX Design . Some technologies I enjoy working with include ReactJS, HTML , CSS, JavaScript, Java , NodeJs , MySql . My aim is to create new stuffs by considering great  user interfaces.
+I am currently pursuing B.Tech from NIT Agartala , passionate about Web Development and UI/UX Design . Some technologies which I am really enjoy while working with are  HTML , CSS, JavaScript, Java , ReactJS , NodeJs , MySql . My aim is to create new stuffs by considering great  user interfaces.
 
 - 🔭 I’m currently working on various things
 - 🌱 I’m currently learning everything .
