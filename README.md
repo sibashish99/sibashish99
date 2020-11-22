@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sibashish-biswas-147337154)](www.linkedin.com/in/sibashish-biswas-147337154)
-[![Resume](https://img.shields.io/badge/-Resume-orange)](https://sibashish99.github.io/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow)](https://sibashish99.github.io/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=orange&link=www.linkedin.com/in/sibashish-biswas-147337154)](www.linkedin.com/in/sibashish-biswas-147337154)
+[![Resume](https://img.shields.io/badge/-Resume-white)](https://sibashish99.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green)](https://sibashish99.github.io/)
 
 
 # I'm [Sibashish Biswas](https://sibashish99.github.io/) 👋 👨‍💻
