@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=orange&link=www.linkedin.com/in/sibashish-biswas-147337154)](www.linkedin.com/in/sibashish-biswas-147337154)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-orange?style=flat-square&logo=Linkedin&logoColor=orange&link=www.linkedin.com/in/sibashish-biswas-147337154)](www.linkedin.com/in/sibashish-biswas-147337154)
 [![Resume](https://img.shields.io/badge/-Resume-white)](https://sibashish99.github.io/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green)](https://sibashish99.github.io/)
 
