@@ -12,7 +12,7 @@ I am currently pursuing B.Tech from NIT Agartala , passionate about Web Developm
 - 🔭 I’m currently working on various things
 - 🌱 I’m currently learning everything .
 - 👯 I’m looking to collaborate on anthing build on JavaScript
-- 👔 Check my updates on [Linkedin](www.linkedin.com/in/sibashish-biswas-147337154)
+- 👔 Check my updates on [Linkedin](www.linkedin.com/in/sibashish-biswas)
 - 📫 How to reach me: [sibashishbiswas656@gmail.com](sibashishbiswas656@gmail.com)
 - ⚡ Portfolio : [https://sibashish99.github.io/](https://sibashish99.github.io/)
 
