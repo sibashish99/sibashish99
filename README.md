@@ -7,8 +7,9 @@
 
 Fresh Engineering Graduate from National Institute of Technology Agartala. 
 
-- 🔭 I’m currently working on various things 
-- 🌱 I’m currently learning everything .
+- 🔭I’m currently working on various things.
+- 👨🏼‍💻I’m currently learning everything .
+- 🤸‍Enthusiastic about Web Development, Frontend Development (ReactJs), UI/UX Design, Big Data Analytics, DevOps, Android Development.
 )
 
 
